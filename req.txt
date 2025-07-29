@@ -1,0 +1,11 @@
+openai                         
+pinecone-client          
+rank_bm25                        
+scikit-learn                     
+sentence-transformers            
+nltk                             
+tiktoken                      
+numpy                           
+pandas                        
+requests                         
+python-dotenv                    
