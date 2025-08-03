@@ -1,4 +1,3 @@
-Here’s a complete and polished `README.md` content for your RAG-based project using multi-generator and judge model architecture:
 
 ---
 
@@ -136,5 +135,3 @@ python main.py
 MIT License. You are free to use, modify, and share this project with attribution.
 
 ---
-
-Let me know if you want a shorter version, a version tailored for a research report appendix, or if you're deploying this somewhere (like Hugging Face or Docker).
