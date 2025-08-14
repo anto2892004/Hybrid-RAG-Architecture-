@@ -121,17 +121,3 @@ python main.py
 
 ---
 
-## 🌐 Future Improvements
-
-* [ ] Streamlit-based UI for interactive use
-* [ ] Caching of judge responses
-* [ ] Support for user-defined prompt templates
-* [ ] Asynchronous generation for faster response
-
----
-
-## 📝 License
-
-MIT License. You are free to use, modify, and share this project with attribution.
-
----
